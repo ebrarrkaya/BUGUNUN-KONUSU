@@ -13,12 +13,16 @@ print("matematik:{} kimya:{} biyoloji:{} fizik:{} ingilizce:{}".format(85,90,95,
 2. YÖNTEM: SÜSLÜ PARANTEZE İSİM VERME
 Süslü paranteze isim verilir:
 
+Örnek:
+
 print("{isim} {soyad}".format(isim="Ebrar", soyad="Kaya"))
 
 <a href="https://github.com/ebrarrkaya/BUGUNUN-KONUSU/blob/e22d810f46ab93110f39fd934c9a7c08a5ae1834/kkk.png">Çıktısını görmek için tıklayınız</a>
 
 3. YÖNTEM: İNDEKSLEME:
 Bir yapının alt elemanına erişmek için yapacağımız işleme indexing denir:
+
+Örnek:
 
 print("{0}{1}{2}".format("ebrar"," ","kaya"))
 
