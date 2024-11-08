@@ -3,10 +3,6 @@ Kullanıcılara klavye verisi girmesi için kullanılan fonksiyona denir. input(
 
 Örnek:
 
-matematik,kimya,biyoloji,fizik,ingilizce=96,97,98,99,100
-print("matematik:{} kimya:{} biyoloji:{} fizik:{} ingilizce:{}".format(matematik,kimya,biyoloji,fizik,ingilizce))
-print("{matematik}{kimya}".format(matematik=96, kimya=97))
-print("{0} {1}".format("a","b"))
 isim=input("Lutfen isim giriniz:")
 print("Kullanicinin girdigi deger:{}".format(isim))
 
