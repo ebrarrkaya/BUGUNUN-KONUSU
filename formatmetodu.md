@@ -7,6 +7,7 @@ Değer tanımlamadan yapılır:
 Örnek:
 
 print("matematik:{} kimya:{} biyoloji:{} fizik:{} ingilizce:{}".format(85,90,95,80,100))
+
 <a href="https://github.com/ebrarrkaya/BUGUNUN-KONUSU/blob/9aaac90c72bf2bb28a1b42ce1b781f60f133fe76/ebr1.png">Çıktısını görmek için tıklayınız</a>
 
 2. YÖNTEM: SÜSLÜ PARANTEZE İSİM VERME
