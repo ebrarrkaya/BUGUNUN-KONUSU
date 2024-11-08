@@ -7,4 +7,4 @@ isim=input("Lutfen isim giriniz:")
 
 print("Kullanicinin girdigi deger:{}".format(isim))
 
-<a href="https://github.com/ebrarrkaya/BUGUNUN-KONUSU/blob/7761a60b9fa0f318abfe0a1b4d2e5413fde1451a/bbb.png">Çıktısını görmek için tıklayınız</a>
+<a href="https://github.com/ebrarrkaya/BUGUNUN-KONUSU/blob/f7974826ba1af2f1bec422ace39023e9ef646037/sss.png">Çıktısını görmek için tıklayınız</a>
