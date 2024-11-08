@@ -4,6 +4,7 @@ Kullanıcılara klavye verisi girmesi için kullanılan fonksiyona denir. input(
 Örnek:
 
 isim=input("Lutfen isim giriniz:")
+
 print("Kullanicinin girdigi deger:{}".format(isim))
 
 <a href="https://github.com/ebrarrkaya/BUGUNUN-KONUSU/blob/7761a60b9fa0f318abfe0a1b4d2e5413fde1451a/bbb.png">Çıktısını görmek için tıklayınız</a>
